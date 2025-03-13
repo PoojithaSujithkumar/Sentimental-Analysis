@@ -1,4 +1,4 @@
-🌟 Sentiment Analysis Web App with Hugging Face & Gradio
+### 🌟 Sentiment Analysis Web App with Hugging Face & Gradio
 
 🚀 This project is a Sentiment Analysis Web App built using Hugging Face Transformers and Gradio. It allows users to analyze the sentiment of text with ease.
 
